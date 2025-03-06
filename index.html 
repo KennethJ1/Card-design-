@@ -4,13 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Card UI</title>
-    <link rel="stylesheet" href="styles.css"> <!-- Link to external CSS -->
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
     <div class="card">
-        <img class="avatar" src="https://i.imgur.com/GrRZ56W.png" alt="Felonious Gru">
-        <h2>Felonious Gru</h2>
+        <img class="avatar" src="https://www.excelsior.com.mx/media/pictures/2024/11/21/3216015.jpg" alt="chill guy">
+        <h2>Chill Guy</h2>
         <a href="https://example.com" target="_blank">example.com</a>
     </div>
 
